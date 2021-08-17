@@ -1,0 +1,20 @@
+<div>
+  <input class="filter" type="text" placeholder="Search film by genres or year" [(ngModel)]="filterTerm">
+</div>
+
+<table class="main"> 
+  <tr>
+    <th class="id">ID</th> 
+    <th class="name">NAME</th> 
+    <th class="genre" colspan="2" >GENRES</th>
+    <th class="year">YEAR</th>
+  </tr>
+</table>
+  
+  <app-film 
+    *ngFor = "let film of films | filter:filterTerm"
+    [film] = "film"
+  > 
+</app-film>
+
+

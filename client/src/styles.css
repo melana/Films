@@ -1,0 +1,51 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    font-family: Arial, Verdana,  sans-serif; 
+    font-size: 3vh; 
+    text-align: center;
+    margin-top: 5vh;
+}
+
+.id{
+    color: rgb(175, 172, 172);
+    width: 10%;
+}
+
+.name{
+    color: rgb(49, 49, 49);
+    width: 50%;
+}
+
+.genre{
+    color: darkorange;
+    width: 15%;
+}
+
+th.genre{
+    width: 30%;
+}
+
+.year{
+    width: 10%;
+}
+
+table{
+    width: 90vw; 
+}
+
+th{
+    text-decoration: underline;
+}
+
+.filter{
+    width: 30vw;
+    height: 4vh;
+    margin: 1vh;
+}
+
+.main{
+    margin-top: 7vh;
+}
+
+
+

@@ -1,0 +1,4 @@
+{
+    "filmList":
+    [{"id":"1","name":"The Shawshank Redemption","genre1":"Drama","genre2":"Crime","year":"1994"},{"id":"2","name":"The Godfather","genre1":"Crime","genre2":"Drama","year":"1972"},{"id":"3","name":"The Dark Knight","genre1":"Action","genre2":"Crime","year":"2008"},{"id":"4","name":"The Godfather: Part II","genre1":"Crime","genre2":"Drama","year":"1974"},{"id":"5","name":"12 Angry Men","genre1":"Crime","genre2":"Drama","year":"1957"},{"id":"6","name":"The Lord of the Rings: The Return of the King","genre1":"Action","genre2":"Adventure","year":"2003"},{"id":"7","name":"Pulp Fiction","genre1":"Crime","genre2":"Drama","year":"1994"},{"id":"8","name":"Schindler's List","genre1":"Biography","genre2":"Drama","year":"1993"},{"id":"9","name":"Inception","genre1":"Action","genre2":"Adventure","year":"2010"},{"id":"10","name":"Fight Club","genre1":"Drama","genre2":"Thriller","year":"1999"}]
+}
